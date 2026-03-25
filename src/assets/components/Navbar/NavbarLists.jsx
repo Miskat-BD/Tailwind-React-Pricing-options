@@ -1,11 +1,13 @@
 import React from 'react';
 
-const NavbarLists = ({link}) => {
+const NavbarLists = ({ link }) => {
     // console.log(link);
     return (
-        <div>
-            <li className='mr-10'><a href={link.path}>{link.name}</a></li>
-        </div>
+
+        <li className='lg:mr-10 hover:bg-amber-400'>
+            <a href={link.path}>{link.name}</a>
+        </li>
+
     );
 };
 

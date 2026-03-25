@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": 1000,
+    "duration": "Monthly",
+    "description": "Perfect for beginners starting their fitness journey.",
+    "features": [
+      "Access to gym equipment",
+      "Locker facility",
+      "1 free fitness assessment",
+      "Open gym hours (8am - 8pm)",
+      "Basic workout guidance"]
+  },
+  {
+    "id": 2,
+    "name": "Standard",
+    "price": 2000,
+    "duration": "Monthly",
+    "description": "Great for regular users who want more flexibility.",
+    "popular": true,
+    "features": [
+      "All Basic features",
+      "Access to cardio & strength zones",
+      "Group classes (Yoga, Zumba, HIIT)",
+      "Flexible gym hours (6am - 10pm)",
+      "2 personal training sessions",
+      "Body composition analysis"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium",
+    "price": 3500,
+    "duration": "Monthly",
+    "description": "Best for serious fitness lovers.",
+    "features": [
+      "All Standard features",
+      "Unlimited personal training",
+      "Customized workout plan",
+      "Diet & nutrition plan (monthly update)",
+      "24/7 gym access",
+      "Steam & sauna access",
+      "Massage chair access"
+    ]
+  }
+]
